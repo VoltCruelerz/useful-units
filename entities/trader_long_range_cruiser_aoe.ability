@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "action_data_source": "trader_long_range_cruiser_aoe",
+    "passive_actions": {
+        "persistant_buff": "trader_long_range_cruiser_aoe_on_self"
+    },
+    "gui": {
+        "hud_icon": "trader_long_range_cruiser_hud_button_icon",
+        "name": "trader_long_range_cruiser_aoe_name",
+        "description": "trader_long_range_cruiser_aoe_description",
+        "tooltip_lines": [
+            {
+                "label_text": "tooltip.ability.splash_damage",
+                "value_id": "splash_damage_value",
+                "value_float_format": "percentage"
+            },
+            {
+                "label_text": "tooltip.ability.trader_long_range_cruiser_aoe_penetration",
+                "value_id": "aoe_penetration_value",
+                "value_float_format": "no_decimal_place"
+            },
+            {
+                "label_text": "tooltip.ability.trader_long_range_cruiser_aoe_radius",
+                "value_id": "radius_value",
+                "value_float_format": "no_decimal_place"
+            }
+        ],
+        "range": "radius_value"
+    }
+}

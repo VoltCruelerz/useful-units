@@ -1,0 +1,12 @@
+{
+    "name": "Useful Units",
+    "author": "Volt Cruelerz",
+    "url": "https://github.com/VoltCruelerz/useful-units",
+    "description": "Improves the roster of ships.",
+    "version": "1.0.0",
+    "sinsVersion": "1.14.3.0",
+    "greedVersion": "1.2.0",
+    "dependencies": [],
+    "conflicts": [],
+    "priority": 15
+}

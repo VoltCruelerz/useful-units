@@ -1,0 +1,6 @@
+{
+    // Just add the new ability
+    "abilities": [
+        "trader_long_range_cruiser_aoe"
+    ]
+}
