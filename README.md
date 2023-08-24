@@ -3,7 +3,7 @@
 ## Changes
 
 - **Javelis**
-    - **Cluster Munitions**: 20% splash damage out to 2000 units
+    - **Cluster Munitions**: 30% splash damage out to 1000 units
 - **Harcka**
     - Something tanky...
         - gap closer
