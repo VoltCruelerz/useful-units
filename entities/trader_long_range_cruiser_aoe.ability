@@ -23,6 +23,11 @@
                 "label_text": "tooltip.ability.trader_long_range_cruiser_aoe_radius",
                 "value_id": "radius_value",
                 "value_float_format": "no_decimal_place"
+            },
+            {
+                "label_text": "tooltip.ability.max_targets",
+                "value_id": "max_target_count",
+                "value_float_format": "no_decimal_place"
             }
         ],
         "range": "radius_value"

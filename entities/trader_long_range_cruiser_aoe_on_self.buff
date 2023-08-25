@@ -17,6 +17,7 @@
                         },
                         "include_radius_origin_unit": false,
                         "radius_value": "radius_value",
+                        "max_target_count_value": "max_target_count",
                         "operators_constraint": {
                             "constraint_type": "unit_passes_target_filter",
                             "unit": {
