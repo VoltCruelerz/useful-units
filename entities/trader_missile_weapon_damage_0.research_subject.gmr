@@ -1,0 +1,13 @@
+{
+    // The flavor text is about improved turning, so make it turn better.
+    "unit_modifiers": [
+        {
+            "modifier_type": "max_angular_speed",
+            "value_behavior": "scalar",
+            "value": 0.2,
+            "tags": [
+                "torpedo"
+            ]
+        }
+    ]
+}

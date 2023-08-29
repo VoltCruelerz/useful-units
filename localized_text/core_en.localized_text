@@ -19,6 +19,18 @@
         [
             "tooltip.ability.trader_long_range_cruiser_aoe_radius",
             "Splash Radius:"
+        ],
+        [
+            "trader_improve_long_range_cruiser_research_subject_name",
+            "Cluster Munitions"
+        ],
+        [
+            "trader_improve_long_range_cruiser_research_subject_description",
+            "Improvements in avionics miniaturization allow the packing of two secondary charges alongside the primary warhead, improving performance against swarms of lightly-armored foes."
+        ],
+        [
+            "unit_tag_name.torpedo",
+            "Missile"
         ]
     ]
 }

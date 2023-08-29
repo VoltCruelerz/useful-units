@@ -4,8 +4,14 @@
     "passive_actions": {
         "persistant_buff": "trader_long_range_cruiser_aoe_on_self"
     },
+    "level_source": "research_prerequisites_per_level",
+    "level_prerequisites": [
+        [
+            ["trader_improve_long_range_cruiser"]
+        ]
+    ],
     "gui": {
-        "hud_icon": "trader_long_range_cruiser_hud_button_icon",
+        "hud_icon": "trader_improve_long_range_cruiser_research_subject_hud_icon",
         "name": "trader_long_range_cruiser_aoe_name",
         "description": "trader_long_range_cruiser_aoe_description",
         "tooltip_lines": [

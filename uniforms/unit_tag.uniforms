@@ -1,0 +1,8 @@
+{
+    "unit_tags": [
+        {
+            "name": "torpedo",
+            "localized_name": "unit_tag_name.torpedo"
+        }
+    ]
+}
