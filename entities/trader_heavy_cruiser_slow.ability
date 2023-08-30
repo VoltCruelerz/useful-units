@@ -1,0 +1,24 @@
+{
+    "version": 0,
+    "action_data_source": "trader_heavy_cruiser_slow",
+    "passive_actions": {
+        "persistant_buff": "trader_heavy_cruiser_slow_on_self"
+    },
+    "gui": {
+        "hud_icon": "trader_improve_long_range_cruiser_research_subject_hud_icon",
+        "name": "tooltip.ability.trader_heavy_cruiser_slow_name",
+        "description": "tooltip.ability.trader_heavy_cruiser_slow_description",
+        "tooltip_lines": [
+            {
+                "label_text": "tooltip.ability.linear_speed_normal",
+                "value_id": "slow_value",
+                "value_float_format": "percentage_with_sign"
+            },
+            {
+                "label_text": "tooltip.ability.duration",
+                "value_id": "duration_value",
+                "value_suffix": "seconds"
+            }
+        ]
+    }
+}

@@ -31,6 +31,14 @@
         [
             "unit_tag_name.torpedo",
             "Missile"
+        ],
+        [
+            "tooltip.ability.trader_heavy_cruiser_slow_name",
+            "Ionized Ammunition"
+        ],
+        [
+            "tooltip.ability.trader_heavy_cruiser_slow_description",
+            "As ammunition leaves the barrel, it is quickly ionized, causing it to disrupt the maneuverability of its target."
         ]
     ]
 }

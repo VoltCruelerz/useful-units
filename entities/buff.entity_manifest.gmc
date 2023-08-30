@@ -1,5 +1,7 @@
 {
     "ids": [
-        "trader_long_range_cruiser_aoe_on_self"
+        "trader_long_range_cruiser_aoe_on_self",
+        "trader_heavy_cruiser_slow_on_self",
+        "trader_heavy_cruiser_slow_on_target"
     ]
 }

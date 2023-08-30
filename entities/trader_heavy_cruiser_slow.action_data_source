@@ -1,0 +1,27 @@
+{
+    "version": 0,
+    "action_values": [
+        {
+            "action_value_id": "stacking_limit",
+            "action_value":
+            {
+                "transform_type": "fixed",
+                "values": [20]
+            }
+        },
+        {
+            "action_value_id": "duration_value",
+            "action_value":
+            {
+                "values": [5]
+            }
+        },
+        {
+            "action_value_id": "slow_value",
+            "action_value":
+            {
+                "values": [-0.015]
+            }
+        }
+    ]
+}

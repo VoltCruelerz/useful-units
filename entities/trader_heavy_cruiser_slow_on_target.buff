@@ -1,0 +1,36 @@
+{
+    "version": 0,
+    "make_dead_on_parent_buff_made_dead": true,
+    "stacking_limit": "stacking_limit",
+    "stacking_limit_met_behavior": "keep_existing_buff",
+    "stacking_ownership_type": "for_all_players",
+    "active_duration": "duration_value",
+    "unit_modifiers": [
+        {
+            "modifier_type": "max_linear_speed",
+            "value_behavior": "scalar",
+            "value_id": "slow_value"
+        }
+    ],
+    "gui": {
+        "is_negative_buff": true,
+        "hud_icon": "trader_improve_long_range_cruiser_research_subject_hud_icon",
+        "name": "tooltip.ability.trader_heavy_cruiser_slow_name",
+        "tooltip_line_groups": [
+            {
+                "lines": [
+                    {
+                        "label_text": "tooltip.ability.linear_speed_normal",
+                        "value_id": "slow_value",
+                        "value_float_format": "percentage_with_sign"
+                    },
+                    {
+                        "label_text": "tooltip.ability.duration",
+                        "value_id": "duration_value",
+                        "value_suffix": "seconds"
+                    }
+                ]
+            }
+        ]
+    }
+}
