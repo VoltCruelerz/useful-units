@@ -14,7 +14,7 @@
     ],
     "gui": {
         "is_negative_buff": true,
-        "hud_icon": "trader_improve_long_range_cruiser_research_subject_hud_icon",
+        "hud_icon": "trader_improve_heavy_cruiser_slow_hud_icon",
         "name": "tooltip.ability.trader_heavy_cruiser_slow_name",
         "tooltip_line_groups": [
             {

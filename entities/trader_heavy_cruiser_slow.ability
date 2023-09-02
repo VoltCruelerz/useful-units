@@ -5,7 +5,7 @@
         "persistant_buff": "trader_heavy_cruiser_slow_on_self"
     },
     "gui": {
-        "hud_icon": "trader_improve_long_range_cruiser_research_subject_hud_icon",
+        "hud_icon": "trader_improve_heavy_cruiser_slow_hud_icon",
         "name": "tooltip.ability.trader_heavy_cruiser_slow_name",
         "description": "tooltip.ability.trader_heavy_cruiser_slow_description",
         "tooltip_lines": [
