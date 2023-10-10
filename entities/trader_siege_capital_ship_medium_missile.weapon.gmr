@@ -1,0 +1,8 @@
+{
+    "version": 0,
+    "name": "weapon_name.heavy_missile_bank",
+    "pitch_firing_tolerance": 170.0,
+    "yaw_firing_tolerance": 170.0,
+    "range": 7500.0,
+    "damage": 321.600006
+}

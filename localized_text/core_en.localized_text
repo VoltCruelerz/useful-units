@@ -39,6 +39,10 @@
         [
             "tooltip.ability.trader_heavy_cruiser_slow_description",
             "As ammunition leaves the barrel, it is quickly ionized, causing it to disrupt the maneuverability of its target."
+        ],
+        [
+            "weapon_name.heavy_missile_bank",
+            "Heavy Missile Bank"
         ]
     ]
 }
